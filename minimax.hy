@@ -1,5 +1,4 @@
-(import [random[randint]]
-[copy[copy]])
+(import [random[randint]])
 
 (setv maze [])
 (setv px 2)
